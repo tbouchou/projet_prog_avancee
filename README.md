@@ -17,3 +17,7 @@
 ### Stade de développement
 
 A ce jour, les objectifs 1 & 2 ont été réalisés. L'objectif 6 est présent partiellement.
+
+### Retour d'expérience
+
+Ce projet nous a particulièrement plu, notamment car des nouvelles notions de programmation ont été abordées. Malgré quelques difficultés, nous sommes fiers d'avoir fourni un projet fonctionnel répondant à la majeur partie des contraintes exigées.
